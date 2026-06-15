@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # 1. Load your completed dataset
-df = pd.read_csv("/Users/matyseck/Desktop/fragrance_intelligence_master.csv")
+df = pd.read_csv("fragrance_intelligence_master.csv")
 
 st.set_page_config(page_title="Fragrance Intelligence", layout="wide")
 st.title("Luxury Fragrance & Cultural Intelligence Dashboard 🧪")
