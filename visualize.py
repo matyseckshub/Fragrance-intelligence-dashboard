@@ -143,4 +143,4 @@ plt.tight_layout()
 plt.savefig(os.path.expanduser("~/Desktop/Python_consumer_personas.png"), dpi=300)
 plt.close()
 
-print("\n🚀 SUCCESS: 3 Custom-Branded Data Visualizations Saved to Desktop!")
+print("\n SUCCESS: 3 Custom-Branded Data Visualizations Saved to Desktop!")
